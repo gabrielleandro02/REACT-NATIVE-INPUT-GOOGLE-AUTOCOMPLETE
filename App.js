@@ -4,7 +4,7 @@ import {InputGoogleMapsComponent} from './src/components/InputGoogleMapsComponen
 export default class App extends Component {
   render() {
     const a = {
-      key: 'AIzaSyDlE7YcQnuLTeRHCe9J0bxsWR6ABU9PmFo',
+      key: 'API-GOOGLE-KEY',
       debounce: 0,
       minlength: 2,
       language: 'pt',
